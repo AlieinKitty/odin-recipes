@@ -7,8 +7,12 @@ body {
   line-height: 1.4;
   margin: auto;
   width: 50%;
+  padding-bottom: 50px;
 }
-
+/main {
+  border-bottom: #915858;
+  border-style: solid;
+}
 h1  {
   font-weight: bolder;
   text-align: center;
@@ -49,7 +53,7 @@ a {
 
 a:visited {
   text-decoration: underline;
-  color: #be6666;
+  color: #eb5353;
 }
 a:hover {
   color: #be6666;
