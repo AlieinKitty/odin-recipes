@@ -1,0 +1,56 @@
+body {
+  background-color: #ffd7d7f1;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: normal;
+  padding-top: 30px;
+  color: #915858 ;
+  line-height: 1.4;
+  margin: auto;
+  width: 50%;
+}
+
+h1  {
+  font-weight: bolder;
+  text-align: center;
+}
+
+.banner {
+  text-align: center;
+  align-items: center;
+}
+
+.recipes, p  {
+  text-align: center;
+  font-weight: bold;
+}
+ul{
+  text-decoration: none;
+  list-style: none;
+  margin: auto;
+  width: 50%;
+  border: #915858;
+  border-style: solid;
+  padding-top: 50px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 50px;
+}
+li {
+
+  margin: auto;
+  width: 50%;
+  text-decoration: none;
+}
+
+a { 
+  text-decoration: underline;
+  color: #915858 ;
+}
+
+a:visited {
+  text-decoration: underline;
+  color: #be6666;
+}
+a:hover {
+  color: #be6666;
+}
